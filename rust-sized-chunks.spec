@@ -5,8 +5,8 @@
 %global crate sized-chunks
 
 Name:           rust-%{crate}
-Version:        0.3.2
-Release:        2%{?dist}
+Version:        0.7.0
+Release:        1%{?dist}
 Summary:        Efficient sized chunk datatypes
 
 # Upstream license specification: MPL-2.0+
